@@ -680,59 +680,65 @@ header .navbar ul li a:hover {
   width: 100%;
   position: absolute;
   top: 85%;
-  left: 0;5);
+  left: 0;
+  background: rgba(255, 255, 255, 0.95);
   display: flex;
   flex-direction: column;
-  transition: top 0.3s ease
-  flex-direction: column;
+  transition: top 0.3s ease;
 }
 .work .box-container .box .content .tag {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 4.5rem;
+  height: 7rem;
   width: 100%;
+  padding-left: 1rem;
   padding-right: 1rem;
   background: #ffd900;
-  position: relative
-  background: #ffd900;
+  position: relative;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
-}0
+}
 .work .box-container .box:hover .content {
-  top: 25%;
-}1.5rem;
+  top: 0%;
+}
+.work .desc {
+  margin: 1.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   flex: 1;
-  overflow-y: auto
-  flex-direction: column;
-  justify-content: center;
+  overflow-y: auto;
 }
 .work .desc p {
   font-size: 1.5rem;
 }
 .work .desc .btns {
   display: flex;
-  justify-cont1.5rem;
-  gap: 1nt: space-between;
+  justify-content: space-between;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
+  gap: 1rem;
+  position: absolute;
+  top: 5.5rem;
+  right: 1rem;
+  left: auto;
+  width: auto;
 }
-.work .desc rem 1.5rem;
+.work .desc .btns .btn {
+  line-height: 0;
+  display: inline;
+  padding: 1rem 1.5rem;
   border-radius: 0.5rem;
   font-size: 1.3rem;
   color: #fff;
   background: rgb(12, 12, 12);
   transition: all 0.3s ease;
   flex: 1;
-  text-align: center
-  color: #fff;
-  background: rgb(12, 12, 12);
-  margin-right: 2rem;
+  text-align: center;
+  min-width: 100px;
 }
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
