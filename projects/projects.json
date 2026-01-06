@@ -1,132 +1,132 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "CodeThrone",
+    "desc": "CodeThrone is a LeetCode-style coding practice platform designed to help users strengthen problem-solving skills through curated challenges. It features algorithmic problems, test case validation, game feature, discord feature and instant feedback, enabling learners to practice, debug, and optimize solutions.",
+    "image": "codethrone",
+    "category": "application",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://codethrone.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/LeetCode-Throne"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "name": "Karrish AI Website Builder",
+    "desc": "KarRish is a smart, elegant, and fully interactive AI-based website builder that lets users generate complete frontend websites using just natural language prompts.✨ Whether you're a developer, designer, student, or someone with a brilliant idea but no coding experience — KarRish helps you bring your vision to life in seconds.",
+    "image": "karrish",
+    "category": "generative-ai",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://karrish.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/KarRish"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
+    "name": "DSA Visualizer App",
+    "desc": "An interactive platform designed to help users master Data Structures and Algorithms (DSA) through dynamic visualizations, real-time execution, and engaging challenges.",
+    "image": "dsavisualizer",
+    "category": "website",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://coderarmyrishabh.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/DSA-Visualizer-App"
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "Uber LLD Designed Application",
+    "desc": "RideFlow is a comprehensive ride-sharing platform built with clean architecture principles, demonstrating the implementation of multiple design patterns and SOLID principles. This system provides a robust foundation for a scalable ride-sharing service.",
+    "image": "uberdesign",
+    "category": "system-design",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://wondrous-phoenix-e05927.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/UBER_LLD_DESIGN"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "Amazon Price Recommendation System Using SMTP",
+    "desc": "A data-driven system that analyzes Amazon product pricing, discounts, and user engagement metrics to generate price recommendations, with automated email notifications sent via SMTP for alerts, insights, and updates.",
+    "image": "amazonprice",
+    "category": "python,beautifulsoup live api",
+    "links": {
+      "view": "https://atq.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/amazon-price-recommendation-system-using-smtp"
+    }
+  },
+  {
+    "name": "Imperial Restaurant Application",
+    "desc": "Welcome to my first full stack project implemented using HTML , CSS , JS , NODEJS , EJS , TAILWIND , EXPRESS MODULES , POSTGRES AS DATABASE AND APIs a few .This project is welcomed for any suggestions or improvements by you , thank you.",
+    "image": "applicationrestaurant",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.linkedin.com/posts/rishabh-shenoy-3b3566286_fullstackdevelopment-learningjourney-webdevelopment-activity-7263555684959485952-fKB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEV-bLcB24oapeVNdTbZD2HMwRkm4xpyMTk",
+      "code": "https://github.com/CodingEnthusiastic/imperial-restaurant/"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "SRS Tours and Travels Application",
+    "desc": "A comprehensive Travel and Tourism website built with Django framework, providing an all-in-one platform for tour planning, bus booking, flight booking, and data visualization with advanced algorithms.",
+    "image": "srstours",
+    "category": "django-mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels/blob/master/README.md",
+      "code": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "Data Science Projects",
+    "desc": "Projects that are built to enhance knowledge in Artificial intelligence Soft computing , Data Science and Machine learning",
+    "image": "datascienceprojects",
+    "category": "data-science",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://github.com/CodingEnthusiastic/Data-Science-Projects",
+      "code": "https://github.com/CodingEnthusiastic/Data-Science-Projects"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "PDF to Speech Flask",
+    "desc": "Upload PDF files via drag-and-drop or file picker - Convert PDF text to speech - Live captions synchronized with audio playback - Beautiful, responsive UI - Auto-delete audio after session ends (no file storage) - Fast processing with in-memory operations",
+    "image": "pdfspeechflask",
+    "category": "flask",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://github.com/CodingEnthusiastic/pdf-to-speech-flask",
+      "code": "https://pdf-to-speech-8hgw.onrender.com/"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "StockMaster",
+    "desc": "A modern inventory management system for businesses ready to leave manual tracking behind.",
+    "image": "odoohacks2",
+    "category": "application",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://drive.google.com/file/d/1tZxWYyiwFjbX_bpAHvkjDa00cnEnr4VS/view",
+      "code": "https://github.com/CodingEnthusiastic/oodo-hacks"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Healthcare Management System",
+    "desc": "A comprehensive healthcare management platform featuring appointment scheduling, provider management, patient portals, and administrative dashboards with Google Calendar integration.",
+    "image": "application",
+    "category": "odoohacks",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://drive.google.com/file/d/1WQQfj-t704tTviT_M1V1p54TCbTVghBs/view",
+      "code": "https://github.com/CodingEnthusiastic/ODOOxBitsNBytes"
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
+    "name": "DocAnalysis: AI-Powered Research Document Analysis Platform",
+    "desc": "DocAnalysis is a comprehensive, modern platform designed to ingest, analyze, and unlock insights from complex research documents. It leverages advanced, transformer-based NLP models to provide deep semantic understanding, moving far beyond traditional keyword search. Organize your research into projects, automatically fetch papers from academic sources like PubMed, and use our interactive dashboard to explore entities, relationships, and thematic clusters within your corpus.",
+    "image": "docanalysis",
+    "category": "nlp",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "https://github.com/CodingEnthusiastic/Document-Query-System",
+      "code": "https://github.com/CodingEnthusiastic/Document-Query-System"
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "Tambola Game",
+    "desc": "This project is made to create a simple Tambola Judge to help people play together with ease .",
+    "image": "tambola",
+    "category": "game",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://tambola-rishabh.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/Tambola-Judge"
     }
   },
   {
@@ -136,207 +136,77 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": "https://github.com/CodingEnthusiastic/Portfolio"
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
+    "name": "Smart Education Moodle Web Application",
+    "desc": "A comprehensive educational technology platform built with React frontend and Flask backend, featuring modern UI, real-time collaboration, and AI-powered features.",
+    "image": "smarteducation",
+    "category": "application",
+    "links": {
+      "view": "https://learnovatex.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/smarteducation"
+    }
+  },
+  {
+    "name": "Certificate Generator",
+    "desc": "Create professional certificates with AI-powered enhancements, multiple templates, and instant downloads",
+    "image": "certificategenerator",
+    "category": "fast-api",
+    "links": {
+      "view": "https://certificategenerate.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/certificate-generator"
+    }
+  },
+  {
+    "name": "CHATBOT_RISHI-KA-DSA-GURU",
+    "desc": "Welcome to Rishi Ka DSA Guru, your personal chatbot for mastering Data Structures and Algorithms (DSA), UPSC topics, relationship advice, gym motivation, and more — all in one interactive voice-assisted platform!",
+    "image": "genaichatbot",
+    "category": "generative-ai",
+    "links": {
+      "view": "https://chatbotindia.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/CHATBOT_RISHI-KA-DSA-GURU"
+    }
+  },
+  {
+    "name": "Cricket Trivia",
+    "desc": "Just database connection learning , along with some ipl trivia questions .",
+    "image": "crickettrivia",
     "category": "basicweb",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://github.com/CodingEnthusiastic/Cricket-Trivia",
+      "code": "https://github.com/CodingEnthusiastic/Cricket-Trivia"
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
-    }
-  },
-  {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
+    "name": "Rominos Pizza OS Website",
+    "desc": "This project demonstrates the use of OS scheduling algorithms like First Come first serve , Round Robin , Priority Scheduling and Shortest job first which considers real time scenario like cooking time , delivery time and time of arrival .",
+    "image": "rominospizza",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://rominospizza.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/Rominos-Pizza-OS"
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "name": "Blog Website",
+    "desc": "Welcome to my blog website—a feature-rich, dynamic, and visually appealing platform designed to provide a seamless user experience. This project integrates various functionalities, making it more than just a blog. From interactive applications to note management tools, the website serves as a hub for creativity and engagement. With a polished interface, intuitive navigation, and smooth animations, it offers an enjoyable journey for every user.",
+    "image": "blogwebsite",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://codingenthusiastic.github.io/blog-website-/",
+      "code": "https://github.com/CodingEnthusiastic/blog-website-"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
+    "name": "Daily-Writing-Goal-Tracker",
+    "desc": "It is a website which allows you to add your notes in two different ways , either as your own sticky notes or the notes marked in the calendar(we indians usually mark exam dates on house-calendars) . To add salt to it , I have also added a quiz part which challenges you to play our own KBC .. Come and Lets play this out , have your recommendations on this repository.",
+    "image": "goaltracker",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
-    }
-  },
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://codingenthusiastic.github.io/Daily-Writing-Goal-Tracker/",
+      "code": "https://github.com/CodingEnthusiastic/Daily-Writing-Goal-Tracker"
     }
   }
 ]
