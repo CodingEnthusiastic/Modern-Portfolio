@@ -22,7 +22,7 @@
   {
     "name": "DSA Visualizer App",
     "desc": "An interactive platform designed to help users master Data Structures and Algorithms (DSA) through dynamic visualizations, real-time execution, and engaging challenges.",
-    "image": "dsavisualizer",
+    "image": "dsavisualiser",
     "category": "website",
     "links": {
       "view": "https://coderarmyrishabh.netlify.app/",
@@ -62,8 +62,8 @@
   {
     "name": "SRS Tours and Travels Application",
     "desc": "A comprehensive Travel and Tourism website built with Django framework, providing an all-in-one platform for tour planning, bus booking, flight booking, and data visualization with advanced algorithms.",
-    "image": "srstours",
-    "category": "templeweb",
+    "image": "templeweb",
+    "category": "django",
     "links": {
       "view": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels/blob/master/README.md",
       "code": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels"
