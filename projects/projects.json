@@ -32,7 +32,7 @@
   {
     "name": "Uber LLD Designed Application",
     "desc": "RideFlow is a comprehensive ride-sharing platform built with clean architecture principles, demonstrating the implementation of multiple design patterns and SOLID principles. This system provides a robust foundation for a scalable ride-sharing service.",
-    "image": "uberdesign",
+    "image": "kiaweb",
     "category": "system-design",
     "links": {
       "view": "https://wondrous-phoenix-e05927.netlify.app/",
@@ -42,7 +42,7 @@
   {
     "name": "Amazon Price Recommendation System Using SMTP",
     "desc": "A data-driven system that analyzes Amazon product pricing, discounts, and user engagement metrics to generate price recommendations, with automated email notifications sent via SMTP for alerts, insights, and updates.",
-    "image": "amazonprice",
+    "image": "flipkartphp",
     "category": "python,beautifulsoup live api",
     "links": {
       "view": "https://atq.netlify.app/",
@@ -52,7 +52,7 @@
   {
     "name": "Imperial Restaurant Application",
     "desc": "Welcome to my first full stack project implemented using HTML , CSS , JS , NODEJS , EJS , TAILWIND , EXPRESS MODULES , POSTGRES AS DATABASE AND APIs a few .This project is welcomed for any suggestions or improvements by you , thank you.",
-    "image": "applicationrestaurant",
+    "image": "foodicious",
     "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/posts/rishabh-shenoy-3b3566286_fullstackdevelopment-learningjourney-webdevelopment-activity-7263555684959485952-fKB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEV-bLcB24oapeVNdTbZD2HMwRkm4xpyMTk",
@@ -63,7 +63,7 @@
     "name": "SRS Tours and Travels Application",
     "desc": "A comprehensive Travel and Tourism website built with Django framework, providing an all-in-one platform for tour planning, bus booking, flight booking, and data visualization with advanced algorithms.",
     "image": "srstours",
-    "category": "django-mern",
+    "category": "templeweb",
     "links": {
       "view": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels/blob/master/README.md",
       "code": "https://github.com/CodingEnthusiastic/SRS-Tours-and-Travels"
@@ -72,7 +72,7 @@
   {
     "name": "Data Science Projects",
     "desc": "Projects that are built to enhance knowledge in Artificial intelligence Soft computing , Data Science and Machine learning",
-    "image": "datascienceprojects",
+    "image": "webviewapp",
     "category": "data-science",
     "links": {
       "view": "https://github.com/CodingEnthusiastic/Data-Science-Projects",
@@ -82,7 +82,7 @@
   {
     "name": "PDF to Speech Flask",
     "desc": "Upload PDF files via drag-and-drop or file picker - Convert PDF text to speech - Live captions synchronized with audio playback - Beautiful, responsive UI - Auto-delete audio after session ends (no file storage) - Fast processing with in-memory operations",
-    "image": "pdfspeechflask",
+    "image": "sppuprepandroid",
     "category": "flask",
     "links": {
       "view": "https://github.com/CodingEnthusiastic/pdf-to-speech-flask",
@@ -92,7 +92,7 @@
   {
     "name": "StockMaster",
     "desc": "A modern inventory management system for businesses ready to leave manual tracking behind.",
-    "image": "odoohacks2",
+    "image": "cryptotracker",
     "category": "application",
     "links": {
       "view": "https://drive.google.com/file/d/1tZxWYyiwFjbX_bpAHvkjDa00cnEnr4VS/view",
@@ -102,7 +102,7 @@
   {
     "name": "Healthcare Management System",
     "desc": "A comprehensive healthcare management platform featuring appointment scheduling, provider management, patient portals, and administrative dashboards with Google Calendar integration.",
-    "image": "application",
+    "image": "issuetrack",
     "category": "odoohacks",
     "links": {
       "view": "https://drive.google.com/file/d/1WQQfj-t704tTviT_M1V1p54TCbTVghBs/view",
@@ -112,7 +112,7 @@
   {
     "name": "DocAnalysis: AI-Powered Research Document Analysis Platform",
     "desc": "DocAnalysis is a comprehensive, modern platform designed to ingest, analyze, and unlock insights from complex research documents. It leverages advanced, transformer-based NLP models to provide deep semantic understanding, moving far beyond traditional keyword search. Organize your research into projects, automatically fetch papers from academic sources like PubMed, and use our interactive dashboard to explore entities, relationships, and thematic clusters within your corpus.",
-    "image": "docanalysis",
+    "image": "composey",
     "category": "nlp",
     "links": {
       "view": "https://github.com/CodingEnthusiastic/Document-Query-System",
@@ -152,7 +152,7 @@
   {
     "name": "Certificate Generator",
     "desc": "Create professional certificates with AI-powered enhancements, multiple templates, and instant downloads",
-    "image": "certificategenerator",
+    "image": "certificate",
     "category": "fast-api",
     "links": {
       "view": "https://certificategenerate.netlify.app/",
@@ -182,7 +182,7 @@
   {
     "name": "Rominos Pizza OS Website",
     "desc": "This project demonstrates the use of OS scheduling algorithms like First Come first serve , Round Robin , Priority Scheduling and Shortest job first which considers real time scenario like cooking time , delivery time and time of arrival .",
-    "image": "rominospizza",
+    "image": "burgerweb",
     "category": "basicweb",
     "links": {
       "view": "https://rominospizza.netlify.app/",
@@ -192,7 +192,7 @@
   {
     "name": "Blog Website",
     "desc": "Welcome to my blog website—a feature-rich, dynamic, and visually appealing platform designed to provide a seamless user experience. This project integrates various functionalities, making it more than just a blog. From interactive applications to note management tools, the website serves as a hub for creativity and engagement. With a polished interface, intuitive navigation, and smooth animations, it offers an enjoyable journey for every user.",
-    "image": "blogwebsite",
+    "image": "bootstrapportfolio",
     "category": "basicweb",
     "links": {
       "view": "https://codingenthusiastic.github.io/blog-website-/",
@@ -202,7 +202,7 @@
   {
     "name": "Daily-Writing-Goal-Tracker",
     "desc": "It is a website which allows you to add your notes in two different ways , either as your own sticky notes or the notes marked in the calendar(we indians usually mark exam dates on house-calendars) . To add salt to it , I have also added a quiz part which challenges you to play our own KBC .. Come and Lets play this out , have your recommendations on this repository.",
-    "image": "goaltracker",
+    "image": "bootstraptemplate",
     "category": "basicweb",
     "links": {
       "view": "https://codingenthusiastic.github.io/Daily-Writing-Goal-Tracker/",
