@@ -30,6 +30,16 @@
     }
   },
   {
+    "name": "JanSaathi",
+    "desc": "JanSaathi is a government schemes discovery platform designed to help Indians find and access relevant welfare schemes, benefits, and social programs. Built with AI-powered eligibility checks, document verification via blockchain, and multi-language support.",
+    "image": "issuetrack",
+    "category": "website",
+    "links": {
+      "view": "https://hamzaisback.netlify.app/",
+      "code": "https://github.com/CodingEnthusiastic/JanSaathi-Application"
+    }
+  },
+  {
     "name": "Uber LLD Designed Application",
     "desc": "RideFlow is a comprehensive ride-sharing platform built with clean architecture principles, demonstrating the implementation of multiple design patterns and SOLID principles. This system provides a robust foundation for a scalable ride-sharing service.",
     "image": "kiaweb",
